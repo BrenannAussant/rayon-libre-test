@@ -5,3 +5,5 @@ Mercredi : 14h - 18h
 Jeudi : fermé
 Vendredi : 17h - 20h
 Samedi : 10h - 12h
+dimanche : 20h - 22h
+oui
